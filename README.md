@@ -12,7 +12,6 @@ Current Features:
 
 _This project only supports the usage of Proxmox VE 8 at this time._
 
-<br>
 
 ### Installation
 
